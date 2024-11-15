@@ -1,0 +1,16 @@
+table, th, td{
+    border: 1px solid black;
+  
+}
+
+
+dt{
+    background-color: rgb(10, 229, 229);
+}
+
+
+table{
+    width: 100%;
+}
+
+
