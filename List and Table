@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Table and Order list </title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1 style="background-color: aqua; text-align: center;">Tutorial Of List, Table and Defination list  </h1>
+
+    <!--Defination List -->
+   <!--Defination list is used to represent the list in the form of defination and the 
+   tags are dl (defination list) and dt (defination term) and dd(defination discription)-->
+
+   <dl>
+      
+      <dt>Html:</dt>
+      <dd>Html is Hyper text markup language</dd><br>
+
+      <dt>Defination List:</dt>
+      <dd>Defination list is used to represent a list of term along the defination. </dd><br>
+
+      <dt>Defination List tag:</dt>
+      <dd>dl (defination list):</dd>
+      <dd>dt(defination term):</dd>
+      <dd>dd(defination description):</dd><br>
+
+      <dt>Ordered List</dt>
+      <dd>ol:</dd>
+      <dd>li:</dd><br>
+
+      <dt>unorder list:</dt>
+      <dd>ul:</dd>
+      <dd>li:</dd><br>
+
+      <dt>table:</dt>
+      <dd>table:</dd>
+      <dd>tr:</dd>
+      <dd>th:</dd>
+      <dd>tr:</dd>
+      <dd>td:</dd>
+      
+
+
+   </dl>
+
+
+
+   <table>
+        <tr>
+            <ul>
+                <th>Name</th>
+                <th>Roll no:</th>
+                <th>class:</th>
+                <th>Percentage</th>
+            </ul>
+        </tr>
+
+        <tr>
+            <ul>
+                <td><li>Pawan Rathee</li></td>
+                <td><li>21CSE044</li></td>
+                <td><li>Btech</li></td>
+                <td><li>99%</li></td>
+
+
+            </ul>
+
+
+        </tr>
+
+
+   </table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <script src="Tutorial.js"></script>
+</body>
+</html>
